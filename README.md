@@ -1,7 +1,7 @@
 # 💫 About Me
 
 👋 Hi, I’m **Festim Reqi**  
-I’m a **Full Stack Developer** passionate about building clean, useful, and impactful applications. Over the years, I’ve worked on various projects—some of which I’ve proudly shared with the community.  
+I’m a **Full Stack Developer** passionate about building clean, useful, and impactful applications. Over the years, I’ve worked on various projects some of which I’ve proudly shared with the community.  
 
 🎓 I hold a degree in **Industrial Engineering with Informatics** from the University of Applied Sciences in Ferizaj, where I combined problem-solving skills with hands-on coding.  
 
