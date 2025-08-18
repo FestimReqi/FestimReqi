@@ -1,21 +1,19 @@
-# 💫 𝔄𝔟𝔬𝔲𝔱 𝔐𝔢
+# 💫 About Me
 
-👋 𝓗𝓲, 𝓘’𝓶 **𝓕𝓮𝓼𝓽𝓲𝓶 𝓡𝓮𝓺𝓲**  
-𝓘’𝓶 𝓪 **𝓕𝓾𝓵𝓵 𝓢𝓽𝓪𝓬𝓴 𝓓𝓮𝓿𝓮𝓵𝓸𝓹𝓮𝓻** 𝔭𝔞𝔰𝔰𝔦𝔬𝔫𝔞𝔱𝔢 𝔞𝔟𝔬𝔲𝔱 𝔟𝔲𝔦𝔩𝔡𝔦𝔫𝔤 𝔲𝔰𝔢𝔣𝔲𝔩, 𝔦𝔪𝔭𝔞𝔠𝔱𝔣𝔲𝔩, 𝔞𝔫𝔡 𝔠𝔩𝔢𝔞𝔫 𝔞𝔭𝔭𝔩𝔦𝔠𝔞𝔱𝔦𝔬𝔫𝔰.  
-𝓞𝓿𝓮𝓻 𝓽𝓱𝓮 𝔂𝓮𝓪𝓻𝓼, 𝓘’𝓿𝓮 𝔴𝓸𝓻𝓴𝓮𝓭 𝓸𝓷 𝓭𝓲𝓿𝓮𝓻𝓼𝓮 𝓹𝓻𝓸𝓳𝓮𝓬𝓽𝓼—𝓼𝓸𝓶𝓮 𝓸𝓯 𝔀𝓱𝓲𝓬𝓱 𝓘’𝓿𝓮 𝓹𝓻𝓸𝓾𝓭𝓵𝔂 𝓼𝓱𝓪𝓻𝓮𝓭 𝔀𝓲𝓽𝓱 𝓽𝓱𝓮 𝓬𝓸𝓶𝓶𝓾𝓷𝓲𝓽𝔂.  
+👋 Hi, I’m **Festim Reqi**  
+I’m a **Full Stack Developer** passionate about building clean, useful, and impactful applications. Over the years, I’ve worked on various projects—some of which I’ve proudly shared with the community.  
 
-🎓 𝓘 𝓱𝓸𝓵𝓭 𝓪 𝓭𝓮𝓰𝓻𝓮𝓮 𝓲𝓷 **𝓘𝓷𝓭𝓾𝓼𝓽𝓻𝓲𝓪𝓵 𝓔𝓷𝓰𝓲𝓷𝓮𝓮𝓻𝓲𝓷𝓰 𝔀𝓲𝓽𝓱 𝓘𝓷𝓯𝓸𝓻𝓶𝓪𝓽𝓲𝓬𝓼**  
-𝓯𝓻𝓸𝓶 𝓽𝓱𝓮 𝓤𝓷𝓲𝓿𝓮𝓻𝓼𝓲𝓽𝔂 𝓸𝓯 𝓐𝓹𝓹𝓵𝓲𝓮𝓭 𝓢𝓬𝓲𝓮𝓷𝓬𝓮𝓼 𝓲𝓷 𝓕𝓮𝓻𝓲𝔃𝓪𝓳,  
-𝔀𝓱𝓮𝓻𝓮 𝓘 𝓬𝓸𝓶𝓫𝓲𝓷𝓮𝓭 𝓹𝓻𝓸𝓫𝓵𝓮𝓶-𝓼𝓸𝓵𝓿𝓲𝓷𝓰 𝔀𝓲𝓽𝓱 𝓱𝓪𝓷𝓭𝓼-𝓸𝓷 𝓬𝓸𝓭𝓲𝓷𝓰.  
+🎓 I hold a degree in **Industrial Engineering with Informatics** from the University of Applied Sciences in Ferizaj, where I combined problem-solving skills with hands-on coding.  
 
-🛠️ **𝓣𝓮𝓬𝓱 𝓘 𝔀𝓸𝓻𝓴 𝔀𝓲𝓽𝓱:**  
-- 𝔉𝔯𝔬𝔫𝔱𝔢𝔫𝔡: HTML5, CSS3, 𝔅𝔬𝔬𝔱𝔰𝔱𝔯𝔞𝔭, 𝔗𝔞𝔦𝔩𝔴𝔦𝔫𝔡, 𝔍𝔞𝔳𝔞𝔖𝔠𝔯𝔦𝔭𝔱, ℜ𝔢𝔞𝔠𝔱  
-- 𝔅𝔞𝔠𝔨𝔢𝔫𝔡: 𝔑𝔬𝔡𝔢.𝔧𝔰, 𝔈𝔵𝔭𝔯𝔢𝔰𝔰.𝔧𝔰, 𝔐𝔬𝔫𝔤𝔬𝔇𝔅  
-- 𝔒𝔱𝔥𝔢𝔯: 𝓒#, 𝓟𝔂𝓽𝓱𝓸𝓷  
+🛠️ **Tech I work with:**  
+- Frontend: HTML5, CSS3, Bootstrap, Tailwind, JavaScript, React  
+- Backend: Node.js, Express.js, MongoDB  
+- Others: C#, Python  
 
-💡 𝓐𝓵𝔀𝓪𝔂𝓼 𝓸𝓹𝓮𝓷 𝓽𝓸 𝓵𝓮𝓪𝓻𝓷𝓲𝓷𝓰 𝓷𝓮𝔀 𝓽𝓸𝓸𝓵𝓼, 𝓵𝓪𝓷𝓰𝓾𝓪𝓰𝓮𝓼, 𝓸𝓻 𝓯𝓻𝓪𝓶𝓮𝔀𝓸𝓻𝓴𝓼.  
+💡 Always curious and open to learning new frameworks, tools, or languages that make development better.  
 
-📫 𝓕𝓮𝓮𝓵 𝓯𝓻𝓮𝓮 𝓽𝓸 𝓮𝔁𝓹𝓵𝓸𝓻𝓮 𝓶𝔂 𝓹𝓻𝓸𝓳𝓮𝓬𝓽𝓼, 𝓬𝓸𝓷𝓽𝓻𝓲𝓫𝓾𝓽𝓮, 𝓸𝓻 𝓬𝓸𝓷𝓷𝓮𝓬𝓽 𝔀𝓲𝓽𝓱 𝓶𝓮!
+📫 Feel free to explore my projects, contribute, or connect with me!
+
 
 ## 🌐 Socials:
 [![Behance](https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white)](https://behance.net/festimchannel)
