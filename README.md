@@ -1,59 +1,65 @@
-<!-- Animated Typing Header -->
+<!-- HEADER -->
 <h1 align="center">Hi 👋 I'm Festim Reçi</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Full-Stack+Software+Engineer;React+%7C+Next.js+%7C+Node.js+%7C+TypeScript;Building+Modern+Web+Applications;AI+Integrations+%26+Automation;Open+to+Remote+Opportunities" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com/?lines=Full-Stack%20Software%20Engineer;React%20%7C%20Next.js%20%7C%20Node.js%20%7C%20TypeScript;Building%20Modern%20Web%20Applications;AI%20Integrations%20%26%20Automation;Open%20to%20Remote%20Opportunities&font=Fira%20Code&center=true&width=650&height=45&color=00F7FF&vCenter=true&size=24&pause=1000">
+</p>
+
+<p align="center">
+Full-Stack Developer building scalable web applications, APIs, and AI-driven systems.
 </p>
 
 ---
 
-# 💫 About Me
+# 🚀 About Me
 
-💻 **Full Stack Developer** passionate about building scalable, clean, and impactful applications.
+💻 Passionate **Full Stack Developer**
 
 🎓 **BSc Industrial Engineering with Informatics**  
 University of Applied Sciences – Ferizaj
 
-⚡ I specialize in:
+⚡ I specialize in building:
 
-- Modern **React / Next.js** web applications
-- **REST API & backend architecture**
-- **AI integrations & automation tools**
-- **Scalable full-stack systems**
+- Modern **React / Next.js** applications
+- **REST APIs & backend architecture**
+- **AI integrations and automation**
+- **Scalable SaaS platforms**
 
-🌍 Based in **Kosovo | Open to remote work**
+🌍 Based in **Kosovo | Open to Remote Work**
 
 ---
 
 # 🌐 Portfolio
 
-🚀 **Personal Portfolio**
+🚀 Personal Website
 
-🔗 https://festimreci-dev.netlify.app
+🔗 **https://festimreci-dev.netlify.app**
+
+Explore my projects, experiments and production applications.
 
 ---
 
 # 🧠 Tech Stack
 
-## Frontend
+### Frontend
 
-![React](https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react)
+![React](https://img.shields.io/badge/React-%2320232a?style=for-the-badge&logo=react)
 ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js)
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript)
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css)
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC?style=for-the-badge&logo=typescript)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330?style=for-the-badge&logo=javascript)
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC?style=for-the-badge&logo=tailwind-css)
 
-## Backend
+### Backend
 
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js)
-![ExpressJS](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express)
+![ExpressJS](https://img.shields.io/badge/express.js-%23404d59?style=for-the-badge&logo=express)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python)
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb)
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b?style=for-the-badge&logo=mongodb)
 
-## Dev Tools
+### Dev Tools
 
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git)
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker)
+![Docker](https://img.shields.io/badge/docker-%230db7ed?style=for-the-badge&logo=docker)
+![Git](https://img.shields.io/badge/git-%23F05033?style=for-the-badge&logo=git)
 ![REST API](https://img.shields.io/badge/REST-API-blue?style=for-the-badge)
 ![JWT](https://img.shields.io/badge/JWT-authentication-black?style=for-the-badge)
 
@@ -61,41 +67,39 @@ University of Applied Sciences – Ferizaj
 
 # 🚀 Featured Projects
 
-### 📊 Media Fetcher
-
-AI-powered media downloader and processing tool.
-
-**Stack:** FastAPI, Next.js, Python
-
-🔗 https://github.com/FestimReqi
-
----
-
 ### 🧾 DORA Invoice App
 
 Business workflow and invoicing platform.
 
-**Stack:** Next.js, TypeScript, Node.js
+**Stack**
 
-🔗 https://github.com/FestimReqi
-
----
-
-### 🛒 E-Commerce Platform
-
-Modern full-stack store with admin dashboard.
-
-**Stack:** MERN Stack
-
-🔗 https://github.com/FestimReqi
+Next.js • TypeScript • Node.js
 
 ---
 
-### 🌐 Portfolio Platform
+### 📊 Media Fetcher
 
-Modern portfolio and developer showcase platform.
+Media processing and download platform.
 
-**Stack:** Next.js, TailwindCSS
+**Stack**
+
+FastAPI • Next.js • Python
+
+---
+
+### 🛒 Full Stack E-Commerce Platform
+
+Modern online store with admin dashboard.
+
+**Stack**
+
+MERN Stack
+
+---
+
+### 🌐 Developer Portfolio
+
+Modern portfolio and developer showcase.
 
 🔗 https://festimreci-dev.netlify.app
 
@@ -117,7 +121,15 @@ Modern portfolio and developer showcase platform.
 
 ---
 
-# 🐍 Snake Contribution Graph
+# 📈 Contribution Graph
+
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=FestimReqi&theme=tokyo-night"/>
+</p>
+
+---
+
+# 🐍 Snake Contribution Animation
 
 ![snake gif](https://github.com/FestimReqi/FestimReqi/blob/output/github-contribution-grid-snake.svg)
 
@@ -132,10 +144,10 @@ Modern portfolio and developer showcase platform.
 
 ---
 
-# 👀 Visitor Counter
+# 👀 Profile Visitors
 
 ![Visitors](https://komarev.com/ghpvc/?username=FestimReqi&color=blue)
 
 ---
 
-⭐ **If you like my work, consider starring my repositories!**
+⭐ If you like my work feel free to **follow or star my repositories**.
