@@ -131,7 +131,8 @@ Modern portfolio and developer showcase.
 
 # 🐍 Snake Contribution Animation
 
-![snake gif](https://raw.githubusercontent.com/FestimReqi/FestimReqi/output/github-contribution-grid-snake.svg)
+![snake gif](https://github.com/FestimReqi/FestimReqi/blob/output/github-contribution-grid-snake.svg)
+
 ---
 
 # 🌍 Connect With Me
