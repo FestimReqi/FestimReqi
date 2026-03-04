@@ -112,7 +112,7 @@ Modern portfolio and developer showcase.
 </p>
 
 <p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=FestimReqi&theme=tokyonight"/>
+<img src="https://streak-stats.demolab.com?user=FestimReqi&theme=tokyonight"/>
 </p>
 
 <p align="center">
