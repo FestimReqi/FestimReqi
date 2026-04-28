@@ -84,36 +84,43 @@ Explore my projects, experiments and production applications.
 
 # 🚀 Featured Projects
 
-### 🧾 DORA Invoice App
-
-Business workflow and invoicing platform.
-
-**Stack**
-
-Next.js • TypeScript • Node.js
+### 🧾 DORA Invoice Platform
+A complete invoicing and business workflow system built to streamline operations, manage clients, and generate professional documents with ease.
 
 ---
 
 ### 📊 Media Fetcher
-
-Media processing and download platform.
-
-**Stack**
-
-FastAPI • Next.js • Python
+A powerful media processing tool designed to handle video downloads, format conversion, and efficient file handling through a simple interface.
 
 ---
 
-### 🛒 Full Stack E-Commerce Platform
-
-Modern online store with admin dashboard.
-
-**Stack**
-
-MERN Stack
+### 🛒 E-Commerce Platform
+A scalable online store solution with product management, order handling, and a fully integrated admin dashboard for business control.
 
 ---
 
+### 📰 Brerore News Platform
+A modern news and blogging platform focused on performance, structured content delivery, and a smooth reading experience.
+
+---
+
+### 🌐 FCODE Studio Website
+A high-end digital agency website showcasing services, projects, and brand identity through a modern and refined user experience.
+
+---
+
+### 📱 Prayer Times Kosovo
+A lightweight and practical application providing accurate prayer times, offline access, and daily usability for users across Kosovo.
+
+---
+
+### 📄 CV Builder App
+An intuitive resume creation tool that allows users to generate, customize, and export professional CVs quickly and efficiently.
+
+---
+
+### 🧼 Cleaning Services Website
+A clean and responsive business website designed to present services clearly and convert visitors into clients.
 ### 🌐 Developer Portfolio
 
 Modern portfolio and developer showcase.
