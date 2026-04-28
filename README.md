@@ -13,20 +13,19 @@ Full-Stack Developer building scalable web applications, APIs, and AI-driven sys
 
 # 🚀 About Me
 
-💻 Passionate **Full Stack Developer**
+💻 Software Developer focused on building scalable, reliable, and high-performance digital products.
 
-🎓 **BSc Industrial Engineering with Informatics**  
+🎓 BSc in Industrial Engineering with Informatics  
 University of Applied Sciences – Ferizaj
 
-⚡ I specialize in building:
+⚡ What I do best:
 
-- Modern **React / Next.js** applications
-- **REST APIs & backend architecture**
-- **AI integrations and automation**
-- **Scalable SaaS platforms**
+- Design and develop modern, user-focused applications  
+- Build robust backend systems and clean architectures  
+- Create automation and intelligent solutions that improve efficiency  
+- Deliver complete products from idea to production  
 
-🌍 Based in **Kosovo | Open to Remote Work**
-
+🌍 Based in Kosovo — open to remote opportunities worldwide
 ---
 
 # 🌐 Portfolio
