@@ -161,11 +161,23 @@ Modern portfolio and developer showcase.
 
 # 🌍 Connect With Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/festimreçi)
+## 💼 Professional
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/festimreci/)
+[![GitHub](https://img.shields.io/badge/GitHub-000?logo=github&logoColor=white)](https://github.com/FestimReqi)
 [![Portfolio](https://img.shields.io/badge/Portfolio-Website-black)](https://festimreci-dev.netlify.app)
-[![Upwork](https://img.shields.io/badge/Upwork-6fda44?logo=upwork&logoColor=white)](https://www.upwork.com/)
-[![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/)
 
+---
+
+## ✍️ Content & Design
+[![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://festimreci.medium.com/)
+[![Behance](https://img.shields.io/badge/Behance-1769FF?logo=behance&logoColor=white)](https://www.behance.net/festimchannel)
+[![Dribbble](https://img.shields.io/badge/Dribbble-EA4C89?logo=dribbble&logoColor=white)](https://dribbble.com/festimreci)
+
+---
+
+## 🌐 Social
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white)](https://www.instagram.com/festim.reqi15/)
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?logo=facebook&logoColor=white)](https://www.facebook.com/festim00/)
 ---
 
 # 👀 Profile Visitors
