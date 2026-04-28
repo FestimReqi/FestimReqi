@@ -41,27 +41,45 @@ Explore my projects, experiments and production applications.
 
 # 🧠 Tech Stack
 
-### Frontend
-
+## ⚡ Frontend
 ![React](https://img.shields.io/badge/React-%2320232a?style=for-the-badge&logo=react)
 ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC?style=for-the-badge&logo=typescript)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330?style=for-the-badge&logo=javascript)
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC?style=for-the-badge&logo=tailwind-css)
 
-### Backend
+---
 
+## 🛠️ Backend
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js)
 ![ExpressJS](https://img.shields.io/badge/express.js-%23404d59?style=for-the-badge&logo=express)
+![ASP.NET Core](https://img.shields.io/badge/.NET%20Core-%23512BD4?style=for-the-badge&logo=dotnet)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python)
+
+---
+
+## 🗄️ Databases
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23316192?style=for-the-badge&logo=postgresql)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b?style=for-the-badge&logo=mongodb)
+![SQL Server](https://img.shields.io/badge/SQL%20Server-%23CC2927?style=for-the-badge&logo=microsoft-sql-server)
 
-### Dev Tools
+---
 
-![Docker](https://img.shields.io/badge/docker-%230db7ed?style=for-the-badge&logo=docker)
-![Git](https://img.shields.io/badge/git-%23F05033?style=for-the-badge&logo=git)
-![REST API](https://img.shields.io/badge/REST-API-blue?style=for-the-badge)
+## 🔐 Auth & Security
 ![JWT](https://img.shields.io/badge/JWT-authentication-black?style=for-the-badge)
+![RBAC](https://img.shields.io/badge/RBAC-role--based--access-blue?style=for-the-badge)
+
+---
+
+## ⚙️ DevOps & Tools
+![Git](https://img.shields.io/badge/git-%23F05033?style=for-the-badge&logo=git)
+![Docker](https://img.shields.io/badge/docker-%230db7ed?style=for-the-badge&logo=docker)
+![VPS](https://img.shields.io/badge/VPS-deployment-black?style=for-the-badge)
+![CI/CD](https://img.shields.io/badge/CI/CD-automation-green?style=for-the-badge)
+
+---
+
+## 🧩 API & Architecture
+![REST API](https://img.shields.io/badge/REST-API-blue?style=for-the-badge)
+![Microservices](https://img.shields.io/badge/Microservices-architecture-purple?style=for-the-badge)
 
 ---
 
