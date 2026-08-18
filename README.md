@@ -107,7 +107,7 @@ I contribute fixes and documentation improvements to open-source projects, inclu
 
 I am open to software engineering opportunities, technical collaboration, and product-focused projects.
 
-- Portfolio: [festimreci-dev.netlify.app](https://festim.fcode-design.com/)
+- Portfolio: [festim.fcode-design.com](https://festim.fcode-design.com/)
 - LinkedIn: [linkedin.com/in/festimreci](https://www.linkedin.com/in/festimreci/)
 - GitHub: [github.com/FestimReqi](https://github.com/FestimReqi)
 - Email: [festimrecidev@gmail.com](mailto:festimrecidev@gmail.com)
