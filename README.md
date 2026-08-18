@@ -6,7 +6,7 @@
 
 I build reliable web applications, REST APIs, business platforms, and user-focused digital products.
 
-[Portfolio](https://festimreci-dev.netlify.app/en) · [LinkedIn](https://www.linkedin.com/in/festimreci/) · [Email](mailto:festimrecidev@gmail.com)
+[Portfolio](https://festim.fcode-design.com/projects) · [LinkedIn](https://www.linkedin.com/in/festimreci/) · [Email](mailto:festimrecidev@gmail.com)
 
 </div>
 
@@ -87,7 +87,7 @@ An Albanian news and publishing platform with custom layouts, structured categor
 `WordPress` `Elementor` `Custom Theme` `SEO`
 
 <p align="center">
-  <a href="https://festimreci-dev.netlify.app/en/projects"><strong>View all projects and case studies →</strong></a>
+  <a href="https://festim.fcode-design.com/projects"><strong>View all projects and case studies →</strong></a>
 </p>
 
 ## Engineering approach
@@ -107,7 +107,7 @@ I contribute fixes and documentation improvements to open-source projects, inclu
 
 I am open to software engineering opportunities, technical collaboration, and product-focused projects.
 
-- Portfolio: [festimreci-dev.netlify.app](https://festimreci-dev.netlify.app/en)
+- Portfolio: [festimreci-dev.netlify.app](https://festim.fcode-design.com/)
 - LinkedIn: [linkedin.com/in/festimreci](https://www.linkedin.com/in/festimreci/)
 - GitHub: [github.com/FestimReqi](https://github.com/FestimReqi)
 - Email: [festimrecidev@gmail.com](mailto:festimrecidev@gmail.com)
