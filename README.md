@@ -6,7 +6,7 @@
 
 I build reliable web applications, REST APIs, business platforms, and user-focused digital products.
 
-[Portfolio](https://festim.fcode-design.com/projects) · [LinkedIn](https://www.linkedin.com/in/festimreci/) · [Email](mailto:festimrecidev@gmail.com)
+[Portfolio](https://festim.fcode-design.com) · [LinkedIn](https://www.linkedin.com/in/festimreci/) · [Email](mailto:festimrecidev@gmail.com)
 
 </div>
 
