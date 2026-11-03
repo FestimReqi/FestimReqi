@@ -1,6 +1,6 @@
 # Festim Reçi
 
-Software engineer based in Kosovo, focused on C#/.NET backend and full-stack web development. Open to international remote engineering opportunities.
+I'm a software engineer based in Kosovo. I enjoy working on interesting ideas, exploring new approaches, and turning complex problems into simple, practical solutions.
 
 ## Core Stack
 
